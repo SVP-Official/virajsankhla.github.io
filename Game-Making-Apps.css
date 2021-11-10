@@ -47,16 +47,16 @@
   }
 
   .u-section-1 .u-video-1 {
-    height: 190px;
-    margin-top: 107px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    height: 248px;
+    width: 440px;
+    margin-top: 74px;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin: 25px 25px 60px;
+    margin: 0 25px 60px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 539px;
