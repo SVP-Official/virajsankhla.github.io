@@ -54,6 +54,11 @@
     margin-left: initial;
   }
 
+  .u-section-1 .embed-responsive-1 {
+    left: -39%;
+    top: -39%;
+  }
+
   .u-section-1 .u-text-1 {
     width: auto;
     margin: 20px 25px 60px;
