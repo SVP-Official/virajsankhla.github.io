@@ -47,26 +47,20 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 137px;
+    min-height: 428px;
   }
 
   .u-section-1 .u-video-1 {
-    height: 191px;
-    margin-top: 106px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-1 .embed-responsive-1 {
-    width: 340%;
-    left: -120%;
-    top: 0%;
+    height: 177px;
+    width: 315px;
+    margin-top: 94px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin: 25px 25px 60px;
+    margin: 32px 25px 47px;
   }
 
   .u-section-1 .u-btn-1 {
