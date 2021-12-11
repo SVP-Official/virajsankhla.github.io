@@ -373,7 +373,7 @@
 
 @media screen and (max-width: 480px) {
   .ytvideo {
-    height: 100px;
+    height: 300px;
   }
 
   .ytvideo h1 {
