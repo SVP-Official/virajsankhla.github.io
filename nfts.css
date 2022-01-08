@@ -197,8 +197,8 @@
 @media screen and (max-width: 650px) {
   .NFTmain {
    background: #000000;
-   padding-top: 20px;
-   height: 220vh;
+   padding-top: 25px;
+   height: 210vh;
   }
   .NFTText {
     color: rgb(0, 0, 0);
